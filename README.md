@@ -1,2 +1,2 @@
 # Simulador-de-control-de-acceso
-Codigos utilizados para la generacion de un sistema sumulador de control de accesos en Java
+Simulador de control de acceso con Java y MySQL usando un autómata finito determinista (DFA) y validaciones gráficas.
